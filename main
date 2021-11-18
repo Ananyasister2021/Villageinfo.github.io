@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>  TENALI RURAL MAHILA POLICE </title>
+<style>  
+ body{  
+        center;
+        margin-left: 50px;
+        background-color: lightsteelblue;
+        }  
+
+</style>  
+</head>
+
+<body>
+  
+
+<h1><center> GUNTUR DISTRICT TENALI SUB-DIVISION </center> </h1> 
+ <h1 style="text-align:right;"><a href="e:\html\login.html"><input type="Submit" value="Login"></a>
+ <a href="e:\html\signup.html"><input type="Submit" value="Signup"></a> </h1> 
+ <table cellpadding="5" cellspacing="5">
+ <tr>
+<td> <img align="left" src="https://upload.wikimedia.org/wikipedia/en/e/ea/Appolice%28emblem%29.png" height="100" width="100"alt="AP POLICE"> </td>
+
+  <td><img align="center" src="E:\HTML\photos\tenali rural.png" height="100" width="1200px" alt="MAHILA POLICE"> </td>
+
+  <td><img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH1hKPKe2JAI8PrvYNZhnUQ1vln1MBA7yYFYRhMKzLBy-t708_J40gAc7O04aEwr4LbOc&usqp=CAU" height="100" width="100" alt="AP Secretariat"/></td>
+</tr>
+ </table>
+<marquee behavior="scroll" direction="left"><h2> Welcome to Tenali Mandal information page</h2> </marquee>
+
+<h3>
+<p>
+       Guntur district was constituted in the year 1904 and Tenali was one of the eight taluks of the district. On 1 July 1909, Tenali taluk was split into Tenali and Repalle taluks. In 1981–82, Tenali taluk was again split into Tenali and Emani taluks. Tenali city taluk was split into Vemuru and Tenali Mandals. Later it was split it into Tenali and Bapatla mandals. On 25 May 1985, mandals were recognised, replacing taluks and firkas.<br>
+</p>
+<p>
+       Tenali mandal is one of the 57 mandals in Guntur district of the Indian state of Andhra Pradesh. It is under the administration of Tenali revenue division, headquartered at Tenali. The mandal is located in Velanadu region, bounded by Pedakakani, Duggirala, Kollipara, Vemuru, Amruthalur, Tsundur and Chebrole mandals.
+</p>
+<p>
+       The mandal plays a major role in education for the rural students of the nearby villages. The primary and secondary school education is imparted by government, aided and private schools, under the School Education Department of the state. As per the school information report for the academic year 2015–16, the mandal had more than 32,571 students enrolled in over 204 schools.
+</p>
+<center> <a href="e:\html\Villages.html">Villages Information</a>
+       </center>
+</h3>
+</body>
+<center>
+<br>
+
+<br><br>
+<footer> © Designed & Devoloped by Prathyusha</footer></center>
+</html>
